@@ -1,0 +1,8 @@
+wordpress-docker/
+├── docker-compose.yml
+├── .env
+├── .gitignore
+├── secrets/
+│   ├── db_root_password
+│   ├── db_user_password
+├── README.md
